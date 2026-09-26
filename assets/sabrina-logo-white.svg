@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="56" viewBox="0 0 256 56" role="img" aria-labelledby="title desc">
+  <title id="title">Sabrina Residences</title>
+  <desc id="desc">An architectural arch emblem beside the Sabrina Residences wordmark.</desc>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 48V23C5 11.4 14.4 2 26 2s21 9.4 21 21v25" stroke-width="1.65"/>
+    <path d="M11.5 48V23c0-8 6.5-14.5 14.5-14.5S40.5 15 40.5 23v25" stroke-width=".9" opacity=".67"/>
+    <path d="M18 48V24a8 8 0 0 1 16 0v24M2 48h48" stroke-width="1.65"/>
+    <path d="M21.5 32h9" stroke-width=".9" opacity=".67"/>
+  </g>
+  <text x="67" y="28.5" fill="#fff" font-family="'Playfair Display', Georgia, serif" font-size="26" font-weight="400" letter-spacing="1.05">SABRINA</text>
+  <path d="M68 35.5h174" stroke="#fff" stroke-width=".65" opacity=".68"/>
+  <text x="69" y="48" fill="#fff" font-family="'Archivo', Arial, sans-serif" font-size="9" font-weight="500" letter-spacing="5.1">RESIDENCES</text>
+</svg>
